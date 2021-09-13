@@ -8,8 +8,8 @@
 #include "TimeHelper.h"
 
 #ifndef STASSID
-#define STASSID "PuTao"
-#define STAPSK  "6262024229"
+#define STASSID "****"
+#define STAPSK  "******"
 #endif
 
 const char *ssid = STASSID;
